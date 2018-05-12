@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40730'
     url: http://www.gutenberg.org/2009/agents/40730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40617#The-Teaching-and-Cultivation-of-the-French-Language-in-England-during-Tudor-and-Stuart-TimesW_
 gutenberg_issued: '2012-08-29'
 gutenberg_type: Text
 identifiers:
