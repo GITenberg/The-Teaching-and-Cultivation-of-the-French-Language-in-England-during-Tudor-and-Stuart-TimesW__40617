@@ -1,0 +1,31 @@
+_repo: The-Teaching-and-Cultivation-of-the-French-Language-in-England-during-Tudor-and-Stuart-TimesW__40617
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40617-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Lambley, K. Rebillon (Kathleen Rebillon)
+    alias: Lambley, Kathleen Rebillon
+    gutenberg_agent_id: '40730'
+    url: http://www.gutenberg.org/2009/agents/40730
+description: ''
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40617'
+  lccn: '20018173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Study and teaching -- Bibliography'
+- !lcsh 'Learning and scholarship -- England'
+- !lcsh 'French language -- Study and teaching'
+title: 'The Teaching and Cultivation of the French Language in England during Tudor
+  and Stuart Times
+
+  With an Introductory Chapter on the Preceding Period'
+url: http://www.gutenberg.org/ebooks/40617
